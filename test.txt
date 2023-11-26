@@ -6,3 +6,4 @@
 *.synology.com
 *.synology.cn
 pkgupdate7.synology.com
+*.yahoo.com
