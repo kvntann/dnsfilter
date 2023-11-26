@@ -1,1 +1,7 @@
-*.yahoo.com
+*.nflxvideo.net
+*.fast.com
+*.google.com
+*.synologydownload.com
+*.synologyupdate.com
+*.synology.com
+*.synology.cn
